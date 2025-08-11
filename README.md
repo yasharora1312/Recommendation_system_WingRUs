@@ -1,4 +1,4 @@
-Wings R Us – Customer Data Analysis & Recommendation System
+## Wings R Us – Customer Data Analysis & Recommendation System
 📌 Overview
 This project processes raw order & customer data from Wings R Us, performs data cleaning, transformation, and exploratory analysis, and builds an advanced recommendation engine to suggest menu items to customers based on their past behavior, current cart, and global purchasing patterns.
 
