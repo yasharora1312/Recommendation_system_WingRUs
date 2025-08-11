@@ -22,13 +22,10 @@ Implements multiple recommendation techniques:
 .Collaborative filtering (Matrix Factorization).
 .Category-based rules.
 
-# Builds an ensemble recommender combining all techniques.
-
-# Tests recall@3 performance against MBA baseline.
-
-# Adds context-aware, hierarchical, and customer journey–based enhancements.
-
-# Includes an optimized ultimate recommender with customizable weights.
+Builds an ensemble recommender combining all techniques.
+Tests recall@3 performance against MBA baseline.
+Adds context-aware, hierarchical, and customer journey–based enhancements.
+Includes an optimized ultimate recommender with customizable weights.
 
 ## 📂 Project Structure
 
