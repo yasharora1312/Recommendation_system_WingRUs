@@ -38,20 +38,20 @@ Implements multiple recommendation techniques:
 ## ⚙️ Installation
 # Clone the repository
 
-git clone https://github.com/yourusername/wings-r-us-recommender.git
-cd wings-r-us-recommender
-Install dependencies
+    git clone https://github.com/yourusername/wings-r-us-recommender.git
+    cd wings-r-us-recommender
+    Install dependencies
 
 pip install -r requirements.txt
 
 ## 📊 Data Processing Workflow 
-1.Load raw data from CSV in chunks for memory efficiency.
-2.Transform ORDERS JSON into item1–item6 with corresponding prices.
-3.Calculate average order value per order.
-4.Detect & correct price outliers using IQR and rule-based fixes.
-5.Perform customer segmentation (One-time, Occasional, Regular, Loyal).
-6.Basket analysis (size, category distribution, combination patterns).
-7.Save cleaned dataset to hackathon_ready_dataset.csv.
+    1.Load raw data from CSV in chunks for memory efficiency.
+    2.Transform ORDERS JSON into item1–item6 with corresponding prices.
+    3.Calculate average order value per order.
+    4.Detect & correct price outliers using IQR and rule-based fixes.
+    5.Perform customer segmentation (One-time, Occasional, Regular, Loyal).
+    6.Basket analysis (size, category distribution, combination patterns).
+    7.Save cleaned dataset to hackathon_ready_dataset.csv.
 
 ## 🤖 Recommendation System Workflow (wwt5.py)
 # 1.Market Basket Analysis (MBA)
