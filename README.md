@@ -11,7 +11,7 @@ This project processes raw order & customer data from Wings R Us, performs data 
 .Generates customer segmentation & behavior insights.
 .Produces a hackathon-ready dataset for modeling.
 
-## Recommendation System 
+# Recommendation System 
 
 Implements multiple recommendation techniques:
 
@@ -31,9 +31,7 @@ Implements multiple recommendation techniques:
 # Includes an optimized ultimate recommender with customizable weights.
 
 ## 📂 Project Structure
-bash
-Copy
-Edit
+
 .
 ├── wwt4.py                # Data processing, cleaning, transformation, and EDA
 ├── wwt5.py                # Recommendation system and performance evaluation
