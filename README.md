@@ -16,11 +16,11 @@ This project processes raw order & customer data from Wings R Us, performs data 
 Implements multiple recommendation techniques:
 
 # Market Basket Analysis (MBA) with association rules.
-.Popularity-based recommendations.
-.Customer segmentation-based suggestions.
-.Sequential purchase pattern mining.
-.Collaborative filtering (Matrix Factorization).
-.Category-based rules.
+    .Popularity-based recommendations.
+    .Customer segmentation-based suggestions.
+    .Sequential purchase pattern mining.
+    .Collaborative filtering (Matrix Factorization).
+    .Category-based rules.
 
 Builds an ensemble recommender combining all techniques.
 Tests recall@3 performance against MBA baseline.
