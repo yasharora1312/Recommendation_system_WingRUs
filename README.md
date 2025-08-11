@@ -29,12 +29,12 @@ Includes an optimized ultimate recommender with customizable weights.
 
 ## 📂 Project Structure
 
-.
-├── wwt4.py                # Data processing, cleaning, transformation, and EDA
-├── wwt5.py                # Recommendation system and performance evaluation
-├── hackathon_ready_dataset.csv   # Cleaned dataset output from wwt4.py
-├── requirements.txt       # Project dependencies
-└── README.md              # Project documentation
+     .
+    ├── wwt4.py                # Data processing, cleaning, transformation, and EDA
+    ├── wwt5.py                # Recommendation system and performance evaluation
+    ├── hackathon_ready_dataset.csv   # Cleaned dataset output from wwt4.py
+    ├── requirements.txt       # Project dependencies
+    └── README.md              # Project documentation
 ## ⚙️ Installation
 # Clone the repository
 
