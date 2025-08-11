@@ -7,10 +7,8 @@ The project is split into two main stages:
 Data Processing & Analysis (wwt4.py)
 
 Cleans and transforms raw JSON order data into structured format.
-
-Detects and corrects pricing outliers.
-
-Generates customer segmentation & behavior insights.
+>Detects and corrects pricing outliers.
+>Generates customer segmentation & behavior insights.
 
 Produces a hackathon-ready dataset for modeling.
 
