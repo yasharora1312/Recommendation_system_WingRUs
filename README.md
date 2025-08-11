@@ -6,10 +6,10 @@ This project processes raw order & customer data from Wings R Us, performs data 
 
 # Data Processing & Analysis
 
-.Cleans and transforms raw JSON order data into structured format.
-.Detects and corrects pricing outliers.
-.Generates customer segmentation & behavior insights.
-.Produces a hackathon-ready dataset for modeling.
+    .Cleans and transforms raw JSON order data into structured format.
+    .Detects and corrects pricing outliers.
+    .Generates customer segmentation & behavior insights.
+    .Produces a hackathon-ready dataset for modeling.
 
 # Recommendation System 
 
@@ -22,10 +22,10 @@ Implements multiple recommendation techniques:
     .Collaborative filtering (Matrix Factorization).
     .Category-based rules.
 
-Builds an ensemble recommender combining all techniques.
-Tests recall@3 performance against MBA baseline.
-Adds context-aware, hierarchical, and customer journey–based enhancements.
-Includes an optimized ultimate recommender with customizable weights.
+    >Builds an ensemble recommender combining all techniques.
+    >Tests recall@3 performance against MBA baseline.
+    >Adds context-aware, hierarchical, and customer journey–based enhancements.
+    >Includes an optimized ultimate recommender with customizable weights.
 
 ## 📂 Project Structure
 
